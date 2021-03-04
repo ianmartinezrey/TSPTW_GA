@@ -1,2 +1,2 @@
 # TSPTW_GA
-Soluciona al problema TSPTW con un algoritmo Genetico
+Solucion al problema TSPTW con un algoritmo Genetico en Python
